@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "editorconfig.editorconfig",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "esbenp.prettier-vscode",
+    "wix.vscode-import-cost",
+    "orta.vscode-jest",
+    "stkb.rewrap",
+    "stylelint.vscode-stylelint",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "styled-components.vscode-styled-components"
+  ]
+}

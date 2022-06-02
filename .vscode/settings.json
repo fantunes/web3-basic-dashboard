@@ -1,0 +1,64 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": true,
+  "editor.fontLigatures": false,
+  "editor.rulers": [80],
+  "editor.snippetSuggestions": "top",
+  "editor.wordBasedSuggestions": false,
+  "editor.suggest.localityBonus": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.showKeywords": false
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.defaultLanguage": "{activeEditorLanguage}",
+  "javascript.validate.enable": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.build": true,
+    "**/.gh-pages": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "breadcrumbs.enabled": true,
+  "npm.runSilent": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#000000",
+    "titleBar.activeForeground": "#fd6a02",
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#fd6a02"
+  },
+  "testing.autoRun.mode": "rerun",
+  "testing.openTesting": "neverOpen",
+  "gitlens.showWelcomeOnInstall": true,
+  "gitlens.hovers.enabled": false,
+  "gitlens.hovers.avatars": false,
+  "gitlens.hovers.pullRequests.enabled": false,
+  "gitlens.hovers.autolinks.enabled": false,
+  "gitlens.hovers.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.hovers.annotations.enabled": false,
+  "gitlens.hovers.currentLine.changes": false,
+  "gitlens.hovers.currentLine.details": false,
+  "gitlens.hovers.annotations.details": false,
+  "gitlens.hovers.annotations.changes": false
+}
